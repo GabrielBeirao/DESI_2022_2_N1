@@ -1,0 +1,1 @@
+uepaaa, eu sou um Script;
